@@ -12,3 +12,5 @@ print (var1+' ' +var2)
 print (var1 + '3')   # here var1 is added with string as 3
 
 print (var1 * 2)   # here var1 variable will print 2 times
+
+print("Hello We are working....")
